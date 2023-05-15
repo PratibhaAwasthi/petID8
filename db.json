@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "petItem8",
+      "name": "Oxbow Essentials Adult Guinea Pig Food",
+      "company": "Oxbow",
+      "price": 19.99,
+      "description": "Oxbow Essentials Adult Guinea Pig Food provides complete and balanced nutrition for adult guinea pigs. Made from hand-selected Timothy hay, this food contains all the vitamins and nutrients your pet needs to thrive, with added Vitamin C to promote optimal health.",
+      "category": "Guinea Pig",
+      "shipping": true,
+      "stock": 7,
+      "reviews": 28,
+      "stars": 3.1,
+      "image": [
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/fd/f3/6c/fdf36c1441f9effb0cf807422d3e6096.jpg",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/fd/f3/6c/fdf36c1441f9effb0cf807422d3e6096.jpg",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/fd/f3/6c/fdf36c1441f9effb0cf807422d3e6096.jpg",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/fd/f3/6c/fdf36c1441f9effb0cf807422d3e6096.jpg",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
